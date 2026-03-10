@@ -6,8 +6,8 @@
 
 BTS SIO · Option SISR · Lycée Fulbert, Chartres
 
-[![Email](https://img.shields.io/badge/Email-louis.bertrand%40email.com-gray?style=flat-square&logo=gmail)](mailto:louis.bertrand@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-louisbertrand-gray?style=flat-square&logo=linkedin)](https://linkedin.com/in/louisbertrand)
+[![Email](https://img.shields.io/badge/Email-louis.bertrand713%40gmail.com-gray?style=flat-square&logo=gmail)](mailto:louis.bertrand713@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-louisbertrand-gray?style=flat-square&logo=linkedin)](https://linkedin.com/in/bertrand-louis)
 [![Portfolio](https://img.shields.io/badge/Portfolio-louis--bertrand--gh.github.io-gray?style=flat-square&logo=safari)](https://louis-bertrand-gh.github.io)
 
 </div>
