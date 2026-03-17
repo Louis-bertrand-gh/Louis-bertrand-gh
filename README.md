@@ -16,7 +16,7 @@ BTS SIO · Option SISR · Lycée Fulbert, Chartres
 
 ### À propos
 
-Étudiant en BTS SIO option SISR, je me spécialise dans l'administration des systèmes, la gestion des réseaux et la cybersécurité. Rigoureux et curieux, je cherche à consolider mes compétences à travers des projets concrets.
+Étudiant en BTS SIO option SISR. Rigoureux et curieux, je cherche à consolider mes compétences à travers des projets concrets.
 
 > 📍 Chartres, France &nbsp;·&nbsp; 🎓 BTS SIO SISR 2024–2026 &nbsp;·&nbsp; 💼 Disponible pour un stage / alternance
 
